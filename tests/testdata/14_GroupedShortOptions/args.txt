@@ -1,0 +1,2 @@
+-lawc
+{dir}/input.txt

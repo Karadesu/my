@@ -1,0 +1,2 @@
+-awcl
+{dir}/input.txt
